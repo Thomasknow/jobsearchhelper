@@ -16,6 +16,6 @@ job_preference = ()
 
 Then, the process would be scanning those company webpage with keywords, if match well, record the link and send it back to my email address.
 
-BTW, I copied a programming counting the words frequency of a webpage, hopefuly it will help in the future.
+BTW, I uploaded a python function counting the words frequency of a webpage, hopefuly it will help in the future.
 
 to be continued...
