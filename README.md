@@ -3,6 +3,7 @@ Well, I actually don't know how repository works, but my idea is that I CAN figu
 I would be happy to first outline the process, and then divide into sub-tasks... To be continued
 
 8/14/19
+
 OK, I figure out it might be too ambitious to track endless webpages. A more practical way would be first create a list consisting of career pages of your targeted companies, like
 tgt_companies_list = () 
 
